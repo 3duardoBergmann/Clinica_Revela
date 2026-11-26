@@ -1,0 +1,20 @@
+.blur-text__word { display: inline-block; }
+.hero-title-line { display: block; white-space: nowrap; }
+
+@media (prefers-reduced-motion: no-preference) {
+  html.revela-motion .hero-copy .blur-text__word > span {
+    display: inline-block;
+    animation: hero-focus-in .63s calc(1.5s + var(--word-index) * 32ms) cubic-bezier(.22,.7,.26,1) both;
+  }
+}
+
+.hero-film[data-text-exit] .blur-text__word {
+  --word-leave: clamp(0, calc((var(--hero-exit) - var(--blur-exit-delay, 0) - var(--word-index) * .012) * 1.92), 1);
+  opacity: calc(1 - var(--word-leave));
+  filter: blur(calc(var(--word-leave) * 9px));
+}
+
+@keyframes hero-focus-in {
+  from { opacity: 0; filter: blur(11px); transform: translateY(7px); }
+  to { opacity: 1; filter: blur(0); transform: none; }
+}

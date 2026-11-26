@@ -1,0 +1,27 @@
+/* Lightweight adaptation of the React Bits Specular Button glass highlight. */
+.specular-button {
+  --spec-x: 50%;
+  --spec-y: 0%;
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+}
+
+.specular-button::before {
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(ellipse at var(--spec-x) var(--spec-y), #fffbea 0%, #f1c88880 27%, transparent 64%);
+  opacity: .33;
+  pointer-events: none;
+  transition: opacity .26s ease;
+  content: '';
+}
+
+.specular-button:is(:hover, :focus-visible)::before { opacity: .89; }
+.specular-button__label { display: inline-flex; align-items: center; gap: .46rem; }
+
+@media (prefers-reduced-motion: reduce) {
+  .specular-button::before { transition: none; }
+}

@@ -1,0 +1,326 @@
+{
+  "app/layout.tsx": {
+    "mtime": 1795639858.0037916,
+    "seen": 1795639931.769306,
+    "ast_hash": "c19b5d187de6b6b8c6d67e0f4f584c2d",
+    "semantic_hash": ""
+  },
+  "app/page.tsx": {
+    "mtime": 1795645826.722847,
+    "seen": 1795646065.0547688,
+    "ast_hash": "da5e148d853031763299f9fca57af1f9",
+    "semantic_hash": ""
+  },
+  "components.json": {
+    "mtime": 1795625127.6750762,
+    "seen": 1795625642.0692587,
+    "ast_hash": "8d0278a4a8f6d0fc7fc230e404ae4eee",
+    "semantic_hash": ""
+  },
+  "components/GlareHover.tsx": {
+    "mtime": 1795625168.8791676,
+    "seen": 1795625642.0692613,
+    "ast_hash": "688f1b76c809689207c5a0d705be1edd",
+    "semantic_hash": ""
+  },
+  "components/experience.tsx": {
+    "mtime": 1795645826.7251337,
+    "seen": 1795646065.0547931,
+    "ast_hash": "1e6d0cec2546e8f5a1d091dd94a0bdfc",
+    "semantic_hash": ""
+  },
+  "components/icons.tsx": {
+    "mtime": 1795636435.4266145,
+    "seen": 1795636751.0123515,
+    "ast_hash": "929979d82862e6b8a76a83f90ce402b2",
+    "semantic_hash": ""
+  },
+  "next.config.ts": {
+    "mtime": 1795625680.582195,
+    "seen": 1795625763.1901796,
+    "ast_hash": "e0337f3b69fc13a27ef032350c2ca7e1",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1795639810.039747,
+    "seen": 1795639931.7693646,
+    "ast_hash": "17d446ad7a8edb80b3c74ec550615fc2",
+    "semantic_hash": ""
+  },
+  "scripts/preparar-marca.py": {
+    "mtime": 1795636512.295097,
+    "seen": 1795636751.012368,
+    "ast_hash": "89bb7c89e053b4bf437f4b573639124d",
+    "semantic_hash": ""
+  },
+  "scripts/validar-navegador.js": {
+    "mtime": 1795646037.7486398,
+    "seen": 1795646065.054809,
+    "ast_hash": "5aef928b2f730280b9cf9a6cde2ba90a",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1795625454.96635,
+    "seen": 1795625642.0692744,
+    "ast_hash": "11822cd231e31065fa8a7c2bb198cfe6",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1795646037.749682,
+    "seen": 1795646065.054812,
+    "ast_hash": "077079188628e35d012baa20e2902510",
+    "semantic_hash": ""
+  },
+  "docs/pesquisa-cliente.md": {
+    "mtime": 1795636637.7347922,
+    "seen": 1795636751.0123765,
+    "ast_hash": "5fa3e4fbecbe5ed2fddb3639d5f5f93e",
+    "semantic_hash": ""
+  },
+  "docs/logo-fonte.jpg": {
+    "mtime": 1795625029.8565228,
+    "seen": 1795625642.0692816,
+    "ast_hash": "80a3bde42f84b53065ccc81e13558145",
+    "semantic_hash": ""
+  },
+  "docs/validacao/1366x768.jpg": {
+    "mtime": 1795646057.5056355,
+    "seen": 1795646065.0548172,
+    "ast_hash": "90fea353411b97c49302aae7759a4540",
+    "semantic_hash": ""
+  },
+  "docs/validacao/1920x1080.jpg": {
+    "mtime": 1795646058.5260746,
+    "seen": 1795646065.054819,
+    "ast_hash": "cf22b89cc2eac1976d432803665c3020",
+    "semantic_hash": ""
+  },
+  "docs/validacao/2560x1440.jpg": {
+    "mtime": 1795646059.3526103,
+    "seen": 1795646065.05482,
+    "ast_hash": "1f1486c0e8520279ee7236df7157615f",
+    "semantic_hash": ""
+  },
+  "docs/validacao/360x800.jpg": {
+    "mtime": 1795646053.570298,
+    "seen": 1795646065.0548215,
+    "ast_hash": "a080e41a08608c0422ccb105bc7ba83f",
+    "semantic_hash": ""
+  },
+  "docs/validacao/3840x2160.jpg": {
+    "mtime": 1795646060.2487154,
+    "seen": 1795646065.054823,
+    "ast_hash": "939d6afdbc1208081baec8791109c332",
+    "semantic_hash": ""
+  },
+  "docs/validacao/390x844.jpg": {
+    "mtime": 1795646054.9517968,
+    "seen": 1795646065.0548244,
+    "ast_hash": "bca6aadc4c173d27c3081d8e3f240074",
+    "semantic_hash": ""
+  },
+  "docs/validacao/428x926.jpg": {
+    "mtime": 1795646055.8059416,
+    "seen": 1795646065.0548263,
+    "ast_hash": "1ea728d344895ade6113185137e85296",
+    "semantic_hash": ""
+  },
+  "docs/validacao/768x1024.jpg": {
+    "mtime": 1795646056.668385,
+    "seen": 1795646065.0548275,
+    "ast_hash": "151f96759ee82cd0a868360c1a927f73",
+    "semantic_hash": ""
+  },
+  "public/media/abertura-mobile.webp": {
+    "mtime": 1795625291.3360124,
+    "seen": 1795625642.0692983,
+    "ast_hash": "bd2dd09782a45536d5befb6f3a9d32f1",
+    "semantic_hash": ""
+  },
+  "public/media/abertura.webp": {
+    "mtime": 1795625291.2107763,
+    "seen": 1795625642.0693002,
+    "ast_hash": "59c60030052ae29aa0aaba8a0707536f",
+    "semantic_hash": ""
+  },
+  "public/media/compartilhar.jpg": {
+    "mtime": 1795625701.6344366,
+    "seen": 1795625763.1902103,
+    "ast_hash": "11127564298acbe49e9691e3af38a5ae",
+    "semantic_hash": ""
+  },
+  "public/media/naturalidade.webp": {
+    "mtime": 1795625291.556532,
+    "seen": 1795625642.0693045,
+    "ast_hash": "1f3b145f1d5bb2d7d330e478fd33ba85",
+    "semantic_hash": ""
+  },
+  "public/media/renata-martins.webp": {
+    "mtime": 1795625291.5869687,
+    "seen": 1795625642.0693064,
+    "ast_hash": "f0b1cd53a9ea713b27c46c12d068882c",
+    "semantic_hash": ""
+  },
+  "public/media/revela-escura.svg": {
+    "mtime": 1795625290.7658,
+    "seen": 1795625642.0693078,
+    "ast_hash": "f7435f9756a6659477f19a0426450e6c",
+    "semantic_hash": ""
+  },
+  "public/media/revela-letreiro.svg": {
+    "mtime": 1795636313.7126253,
+    "seen": 1795636751.0124257,
+    "ast_hash": "75373d9573afd8d94cb0a60f40a04497",
+    "semantic_hash": ""
+  },
+  "public/media/revela-simbolo.svg": {
+    "mtime": 1795625290.766876,
+    "seen": 1795625642.0693119,
+    "ast_hash": "fcfd5075d6cc66cd53b6fb5c59799005",
+    "semantic_hash": ""
+  },
+  "public/media/revela.svg": {
+    "mtime": 1795625290.764782,
+    "seen": 1795625642.0693135,
+    "ast_hash": "463e063880827d512286d0849604afc8",
+    "semantic_hash": ""
+  },
+  "components/scroll-motion.ts": {
+    "mtime": 1795639460.5288842,
+    "seen": 1795639493.5274196,
+    "ast_hash": "3a743ef4543a91f6bf054460c7b1c56b",
+    "semantic_hash": ""
+  },
+  "public/media/naturalidade-compacta.webp": {
+    "mtime": 1795626005.3248312,
+    "seen": 1795626094.2778835,
+    "ast_hash": "b883e197a4b5308e281949771610fb66",
+    "semantic_hash": ""
+  },
+  "components/AccordionGallery.tsx": {
+    "mtime": 1795638814.1785066,
+    "seen": 1795638835.673326,
+    "ast_hash": "a7cf3c4345951b890b893a7392844333",
+    "semantic_hash": ""
+  },
+  "components/StrokeText.tsx": {
+    "mtime": 1795636313.713626,
+    "seen": 1795636751.0123434,
+    "ast_hash": "e69b4e5d11a2469a61d2effb5517c684",
+    "semantic_hash": ""
+  },
+  "components/clinic-faq.tsx": {
+    "mtime": 1795632183.4570968,
+    "seen": 1795632454.2002096,
+    "ast_hash": "37ebda4146f3f1ceb33c8631a2021526",
+    "semantic_hash": ""
+  },
+  "components/team-gallery.tsx": {
+    "mtime": 1795640600.7703054,
+    "seen": 1795640627.4959686,
+    "ast_hash": "7eccbbc76ede2ae84949ba59ef4524ae",
+    "semantic_hash": ""
+  },
+  "public/media/maryanna-equipe.webp": {
+    "mtime": 1795632281.4657218,
+    "seen": 1795632454.2002654,
+    "ast_hash": "d9c20f7578fa92b3e6b2a65165bc0ef5",
+    "semantic_hash": ""
+  },
+  "public/media/renata-equipe.webp": {
+    "mtime": 1795632281.218355,
+    "seen": 1795632454.2002718,
+    "ast_hash": "15e1972ec58b9135986270e2accd54db",
+    "semantic_hash": ""
+  },
+  "components/treatment-deck.tsx": {
+    "mtime": 1795645826.724125,
+    "seen": 1795646065.0548022,
+    "ast_hash": "ce6d5943dbbf3e10a807c3e6c9ecc4f2",
+    "semantic_hash": ""
+  },
+  "docs/validacao/abertura-mobile.jpg": {
+    "mtime": 1795632474.832254,
+    "seen": 1795636751.0123968,
+    "ast_hash": "e5cc8b5aa88949b93ca2ee44c9d6e8bf",
+    "semantic_hash": ""
+  },
+  "docs/validacao/equipe-perfil.jpg": {
+    "mtime": 1795632474.2321587,
+    "seen": 1795636751.0123992,
+    "ast_hash": "e339fd5993a47356cb08b9be7df3fbd6",
+    "semantic_hash": ""
+  },
+  "docs/validacao/equipe.jpg": {
+    "mtime": 1795632473.4052303,
+    "seen": 1795636751.0124009,
+    "ast_hash": "34f73bdc00050e17fae6688465d0c1e6",
+    "semantic_hash": ""
+  },
+  "docs/validacao/transicao-clinica.jpg": {
+    "mtime": 1795640630.4169292,
+    "seen": 1795646065.0548408,
+    "ast_hash": "44dcc7a22442d0719151b317e9093d16",
+    "semantic_hash": ""
+  },
+  "components/CardSwap.tsx": {
+    "mtime": 1795639745.3219082,
+    "seen": 1795639931.7693307,
+    "ast_hash": "64320e8936a6880e8aa0f8eb6089875a",
+    "semantic_hash": ""
+  },
+  "components/smooth-scrolling.tsx": {
+    "mtime": 1795639858.002789,
+    "seen": 1795639931.7693527,
+    "ast_hash": "87c1e7054b0a8d1a8fef95369461f9e4",
+    "semantic_hash": ""
+  },
+  "components/SpecularButton.tsx": {
+    "mtime": 1795640336.7400875,
+    "seen": 1795640525.9441464,
+    "ast_hash": "fc533954be8e36248c9176f2bbb53907",
+    "semantic_hash": ""
+  },
+  "docs/validacao/cartao-botox-mobile.jpg": {
+    "mtime": 1795640010.1693923,
+    "seen": 1795640525.944193,
+    "ast_hash": "ebaec13d823734606eb8d91262b2c78d",
+    "semantic_hash": ""
+  },
+  "docs/validacao/botoes-tratamentos.jpg": {
+    "mtime": 1795640526.421017,
+    "seen": 1795640627.496012,
+    "ast_hash": "212fd083163c2109a25deda9fdebfd91",
+    "semantic_hash": ""
+  },
+  "docs/validacao/perfil-animado.jpg": {
+    "mtime": 1795640528.0789554,
+    "seen": 1795640627.4960213,
+    "ast_hash": "b6f6fc7c75b74b315fff813355b9714e",
+    "semantic_hash": ""
+  },
+  "docs/validacao/perfil-mobile.jpg": {
+    "mtime": 1795640619.519023,
+    "seen": 1795640627.4960232,
+    "ast_hash": "cd84ee311a01ca067f6af5b1f8f9c223",
+    "semantic_hash": ""
+  },
+  "components/BlurText.tsx": {
+    "mtime": 1795645826.7184448,
+    "seen": 1795646065.0547788,
+    "ast_hash": "8afe3c848445b5a3edf2d378b4b59bd4",
+    "semantic_hash": ""
+  },
+  "components/StepperProgress.tsx": {
+    "mtime": 1795645826.720442,
+    "seen": 1795646065.0547876,
+    "ast_hash": "4385a2450e3a42d0e3f651f803460e20",
+    "semantic_hash": ""
+  },
+  "package-lock.json": {
+    "mtime": 1795639810.0552163,
+    "seen": 1795639931.7694294,
+    "ast_hash": "b473b66d2958e8e997d32a3b4d9b04ec",
+    "semantic_hash": ""
+  }
+}
